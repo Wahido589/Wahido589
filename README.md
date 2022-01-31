@@ -1,6 +1,6 @@
 ### Hi there, I am Wahid <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-#### I am experienced in Finance & IT Risk Management. 
+#### I am experienced in Finance & IT Risk Management 💰 💻 🕵️
 
 📫 Feel free to ask me questions. Hit me up!
 
