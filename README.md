@@ -13,17 +13,14 @@
 <code><a href="https://git-scm.com/"><img alt="git" height="20" src="https://user-images.githubusercontent.com/72414477/151850299-400b01dc-3cc8-491f-94be-aad25bf896dd.svg"></a></code>
 <code><a href="https://numpy.org/doc/stable/reference/"><img alt="numpy" height="20" src="https://user-images.githubusercontent.com/72414477/151850265-901d4c1e-bcd4-41c7-ae34-f8986aa09cbd.svg"></a></code>
 <code><a href="https://www.postgresql.org/docs/9.3/sql.html"><img alt="sql" height="20" width="20" src="https://user-images.githubusercontent.com/72414477/151850321-7d2b500e-1531-48d2-82e0-e6ce9aaf6086.svg"></a></code>
-<code><img alt="HTML" width="20" height="20" src="https://user-images.githubusercontent.com/72414477/151850231-37289b78-d76a-43ad-afb3-3a09628c3780.svg"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/72414477/151852356-b46c9e7a-f245-42f8-83ce-2abc7f00525f.png"></code>
-<code><img height="20" width="25" src="https://user-images.githubusercontent.com/72414477/151852430-8648e96e-c5a7-40c0-8088-b40a86610895.jpg"></code>
-<code><img height="20" width="20" src="https://user-images.githubusercontent.com/72414477/151852289-dc78779a-5bdc-471e-8380-6ce19a25881b.jpg"></code>
-<code><img width="20" height="20" src="https://user-images.githubusercontent.com/72414477/151852722-f4c0727a-9189-4420-9ca8-284f5dc8ac0c.svg"></code>
-<code><img height="20" width="20" src="https://user-images.githubusercontent.com/72414477/151852656-f2e11500-6721-45ce-af6b-0d068799b7ce.png"></code>
-<code><img height="15" width="40" src="https://user-images.githubusercontent.com/72414477/151852935-fc9c3fa0-ff96-4af6-a5df-d1b0f3deab1d.png"></code>
-<code><img height="15" width="30" src="https://user-images.githubusercontent.com/72414477/151853759-5a88787d-368c-40e4-84fb-6131b2e6bf10.png"></code>
-
-<a href="https://example.url.com"> <img src="image.png" alt="An image"> </a>
-
+<code><a href="https://devdocs.io/html/"> <img alt="HTML" width="20" height="20" src="https://user-images.githubusercontent.com/72414477/151850231-37289b78-d76a-43ad-afb3-3a09628c3780.svg"></a></code>
+<code><a href="https://www.tableau.com"><img alt="Tableau" height="20" src="https://user-images.githubusercontent.com/72414477/151852356-b46c9e7a-f245-42f8-83ce-2abc7f00525f.png"></a></code>
+<code><a href="https://streamlit.io/"><img alt="streamlit" height="20" width="25" src="https://user-images.githubusercontent.com/72414477/151852430-8648e96e-c5a7-40c0-8088-b40a86610895.jpg"></a></code>
+<code><a href="https://www.heroku.com/"><img alt="heroku" height="20" width="20" src="https://user-images.githubusercontent.com/72414477/151852289-dc78779a-5bdc-471e-8380-6ce19a25881b.jpg"></a></code>
+<code><a href="https://seaborn.pydata.org/"><img alt="seaborn" width="20" height="20" src="https://user-images.githubusercontent.com/72414477/151852722-f4c0727a-9189-4420-9ca8-284f5dc8ac0c.svg"></a></code>
+<code><a href="https://matplotlib.org/"> <img alt="matplotlib" height="20" width="20" src="https://user-images.githubusercontent.com/72414477/151852656-f2e11500-6721-45ce-af6b-0d068799b7ce.png"></a></code>
+<code><a href="https://plotly.com/python/"><img alt="plotly" height="15" width="40" src="https://user-images.githubusercontent.com/72414477/151852935-fc9c3fa0-ff96-4af6-a5df-d1b0f3deab1d.png"></a></code>
+<code><a href="https://scikit-learn.org/stable/"><img alt="scikit" height="15" width="30" src="https://user-images.githubusercontent.com/72414477/151853759-5a88787d-368c-40e4-84fb-6131b2e6bf10.png"></a></code>
 
  
  - 👀 I’m interested in how we deal with Data today 
