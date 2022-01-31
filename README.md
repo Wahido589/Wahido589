@@ -2,7 +2,7 @@
 
 #### I am experienced in Finance & IT Risk Management. 
 
-📫 I am happy to answer any questions. Hit me up!
+📫 Feel free to ask me questions. Hit me up!
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wa-ra)
 
