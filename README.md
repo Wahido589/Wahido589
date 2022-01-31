@@ -4,7 +4,7 @@
 
 📫 I am happy to answer any questions. Hit me up!
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/wa-ra)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wa-ra)
 
 **Languages and Tools:**  
 
@@ -13,14 +13,13 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
  
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- 💬 Ask me about ...
-- 🔭 I’m currently working on ...
-- ⚡ Fun fact: ...
+- 👀 I’m interested in how we deal with Data today 
+- 🌱 I’m currently diving deeper into advanced statistics & (deep) machine learning
+- 📫 You can reach me via LinkedIn or through the Issues function in GitHub
+- 😄 Pronouns: he/ him
+- 💬 Ask me about anything you like. If you have any suggestions how to improve my table tennis skills - shoot!🏓
+- 🔭 I’m currently working on projects that combine my professional experience with Data Science.
+- ⚡ Fun fact: Have you ever heard Farsi with German dialect?
 
 <!---
 Wahido589/Wahido589 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
