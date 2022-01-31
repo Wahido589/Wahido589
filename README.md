@@ -28,7 +28,7 @@
  - 📫 You can reach me via LinkedIn or through the Issues function in GitHub
  - 😄 Pronouns: he/ him
  - 💬 Ask me about anything you like. If you have any suggestions how to improve my table tennis skills - shoot!🏓
- - 🔭 I’m currently working on projects that combine my professional experience and Data Science.
+ - 🔭 I’m currently working on projects that combine my professional experience and Data Science
  - ⚡ Fun fact: Have you ever heard Farsi with German dialect?
 
 <!---
