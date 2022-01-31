@@ -7,13 +7,12 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wa-ra)
 
 [**Languages and Tools:**](https://github.com/get-icon/geticon)  
-
-<code><img height="20" src="https://user-images.githubusercontent.com/72414477/151850216-7e09a818-4067-4d58-885e-d75369dbbf0f.svg"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/72414477/151850254-2fdfb7a6-e39e-4b0d-b29a-71f6aff8f3b6.svg"></code>
-<code><img height="20" width="20" src="https://user-images.githubusercontent.com/72414477/151850280-6213e977-45a5-417e-886c-aec0c58937e7.svg"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/72414477/151850299-400b01dc-3cc8-491f-94be-aad25bf896dd.svg"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/72414477/151850265-901d4c1e-bcd4-41c7-ae34-f8986aa09cbd.svg"></code>
-<code><img height="20" width="20" src="https://user-images.githubusercontent.com/72414477/151850321-7d2b500e-1531-48d2-82e0-e6ce9aaf6086.svg"></code>
+<code><a href="https://docs.python.org/3/library/"><img alt="Python" height="20" src="https://user-images.githubusercontent.com/72414477/151850216-7e09a818-4067-4d58-885e-d75369dbbf0f.svg"></a></code>
+<code><a href="https://pandas.pydata.org/docs/reference/index.html"><img alt="Pandas" height="20" src="https://user-images.githubusercontent.com/72414477/151850254-2fdfb7a6-e39e-4b0d-b29a-71f6aff8f3b6.svg"></a></code>
+<code><a href="https://aws.amazon.com/"> <img alt="aws" height="20" width="20" src="https://user-images.githubusercontent.com/72414477/151850280-6213e977-45a5-417e-886c-aec0c58937e7.svg"></a></code>
+<code><a href="https://git-scm.com/"><img alt="git" height="20" src="https://user-images.githubusercontent.com/72414477/151850299-400b01dc-3cc8-491f-94be-aad25bf896dd.svg"></a></code>
+<code><a href="https://numpy.org/doc/stable/reference/"><img alt="numpy" height="20" src="https://user-images.githubusercontent.com/72414477/151850265-901d4c1e-bcd4-41c7-ae34-f8986aa09cbd.svg"></a></code>
+<code><a href="https://www.postgresql.org/docs/9.3/sql.html"><img alt="sql" height="20" width="20" src="https://user-images.githubusercontent.com/72414477/151850321-7d2b500e-1531-48d2-82e0-e6ce9aaf6086.svg"></a></code>
 <code><img alt="HTML" width="20" height="20" src="https://user-images.githubusercontent.com/72414477/151850231-37289b78-d76a-43ad-afb3-3a09628c3780.svg"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/72414477/151852356-b46c9e7a-f245-42f8-83ce-2abc7f00525f.png"></code>
 <code><img height="20" width="25" src="https://user-images.githubusercontent.com/72414477/151852430-8648e96e-c5a7-40c0-8088-b40a86610895.jpg"></code>
@@ -21,6 +20,9 @@
 <code><img width="20" height="20" src="https://user-images.githubusercontent.com/72414477/151852722-f4c0727a-9189-4420-9ca8-284f5dc8ac0c.svg"></code>
 <code><img height="20" width="20" src="https://user-images.githubusercontent.com/72414477/151852656-f2e11500-6721-45ce-af6b-0d068799b7ce.png"></code>
 <code><img height="15" width="40" src="https://user-images.githubusercontent.com/72414477/151852935-fc9c3fa0-ff96-4af6-a5df-d1b0f3deab1d.png"></code>
+<code><img height="15" width="30" src="https://user-images.githubusercontent.com/72414477/151853759-5a88787d-368c-40e4-84fb-6131b2e6bf10.png"></code>
+
+<a href="https://example.url.com"> <img src="image.png" alt="An image"> </a>
 
 
  
